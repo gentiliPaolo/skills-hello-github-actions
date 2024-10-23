@@ -1,6 +1,10 @@
-name: Post welcome comment
+name: Ciao a tutti, questo è il mio primo GitHubActions
 on:
   pull_request:
     types: [opened]
 permissions:
   pull-requests: write
+jobs:
+  build:
+    name: Post welcome comment.. Primo job
+    runs-on: ubuntu-latest
