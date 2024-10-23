@@ -27,8 +27,6 @@ The shell script in the workflow will run whenever a new pull request is opened.
 
 Gone camping! :tent: Be back soon.
 
-That is so funny! :joy:
-
 <footer>
 
 ---
