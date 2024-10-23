@@ -1,4 +1,4 @@
-name: Ciao a tutti, questo è il mio primo GitHubActions
+name: A workflow for my Hello World file
 on:
   pull_request:
     types: [opened]
